@@ -8,7 +8,6 @@ function displayTime(){
     let date = new Date();
 
     let day = date.getDay();
-    console.log(day);
 
     switch(day){
         case 0:
